@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "name": "Stanford",
+        "coordinates":{
+            "latitude": 37.4462269,
+            "longitude": -122.1676946
+        },
+        "address1": "660 Stanford Shopping Center",
+        "address2": "#540B",
+        "city": "Palo Alto, CA 94304",
+        "imageName":"shop1",
+        "imageName1":"shop1_1",
+        "opening_hours":[{
+            "weekName": "Monday",
+                "open": "7:00am",
+                "close": "6:00pm"
+            },{
+            "weekName": "Tuesday",
+                "open": "7:00am",
+                "close": "6:00pm"
+            },{
+            "weekName": "Wednesday",
+                "open": "7:00am",
+                "close": "6:00pm"
+            },{
+            "weekName": "Thursday",
+                "open": "7:00am",
+                "close": "6:00pm"
+            },{
+            "weekName": "Friday",
+                "open": "7:00am",
+                "close": "6:00pm"
+            },{
+            "weekName": "Saturday",
+                "open": "8:00am",
+                "close": "7:00pm"
+            },{
+            "weekName": "Sunday",
+                "open": "8:00am",
+                "close": "7:00pm"
+            
+            }],
+        "description": "In the early 1950s, Stanford University turned sixty-two acres of its hay fields into the bustling Stanford Shopping Center, which immediately became a classic of the genre. Today it’s wonderfully defied the rise of online shopping, remaining a vital hub for students and tech workers from nearby Silicon Valley. As conceived by architects Bohlin Cywinski Jackson, our cafe there is intended as a respite, with simple and subdued materials. The inspirations are twofold: first, the crisp, geometric lines of origami, and second, the vaulted spaces of spiritual reflection. This starts with the custom facade of pleated light gray slats, known as öko skin made by Rieder, whose texture hints at the quality of the space within. Beyond the door, sculpturally folded vaults emphasize the verticality of the space. We invite daylight in with a series of skylights at the apex of each vault so you can feel close to the outdoors as you enjoy your pour over inside. "
+    },
+    {
+        "id": 2,
+        "name": "Palo Alto",
+        "coordinates":{
+            "latitude": 37.5408003,
+            "longitude": -122.2977769
+        },
+        "address1": "456 University Avenue",
+        "address2": "#",
+        "city": "Palo Alto, CA 94301",
+        "imageName":"shop2",
+        "imageName1":"shop2_1",
+        "opening_hours":[{
+        "weekName": "Monday",
+            "open": "7:00am",
+            "close": "5:00pm"
+        },{
+        "weekName": "Tuesday",
+            "open": "7:00am",
+            "close": "5:00pm"
+        },{
+        "weekName": "Wednesday",
+            "open": "7:00am",
+            "close": "5:00pm"
+        },{
+        "weekName": "Thursday",
+            "open": "7:00am",
+            "close": "5:00pm"
+        },{
+        "weekName": "Friday",
+            "open": "7:00am",
+            "close": "5:00pm"
+        },{
+        "weekName": "Saturday",
+            "open": "7:00am",
+            "close": "6:00pm"
+        },{
+        "weekName": "Sunday",
+            "open": "7:00am",
+            "close": "6:00pm"
+        
+        }],
+        "description": "In 1927—almost the exact chronological midpoint between America’s first car and the debut of the earliest computer—Palo Alto broke ground on the sleepy city’s Varsity Theatre.\n\nFor fifty years, the theatre treated moviegoers to some of the twentieth century’s most beloved films. Then, following a brief stint as a bookstore, the Varsity Theatre was revitalized in 2015 through a partnership with our friends at HanaHaus.\n\nNow the cafe is one of our most spacious locations, with an airy courtyard and a communal workspace.\n\nIn addition to offering our espresso, blend, and single origin coffees, our Palo Alto cafe offers a full breakfast and lunch menu."
+    },
+    {
+        "id": 3,
+        "name": "Bay Meadow",
+        "coordinates":{
+            "latitude": 37.5662805,
+            "longitude": -122.3252347
+        },
+        "address1": "3081 Delaware Street",
+        "address2": "#",
+        "city": "San Mateo, CA 94403",
+        "imageName":"shop3",
+        "imageName1":"shop3_1",
+        "opening_hours":[{
+        "weekName": "Monday",
+            "open": "7:00am",
+            "close": "5:30pm"
+        },{
+        "weekName": "Tuesday",
+            "open": "7:00am",
+            "close": "5:30pm"
+        },{
+        "weekName": "Wednesday",
+            "open": "7:00am",
+            "close": "5:30pm"
+        },{
+        "weekName": "Thursday",
+            "open": "7:00am",
+            "close": "5:30pm"
+        },{
+        "weekName": "Friday",
+            "open": "7:00am",
+            "close": "5:30pm"
+        },{
+        "weekName": "Saturday",
+            "open": "7:00am",
+            "close": "5:30pm"
+        },{
+        "weekName": "Sunday",
+            "open": "7:00am",
+            "close": "5:30pm"
+        
+        }],
+        "description": "Our Bay Meadows cafe in San Mateo serves guests who for too long have had to trek to San Francisco to enjoy our coffee. We’re meeting them closer to home now, with our freestanding cafe that’s part of the Bay Meadows neighborhood. Our ever-changing single origin pour overs and espresso drinks are on the menu, as are house-made pastries, simple fare to carry out, and our beloved Liège wafels.\n\nThe spirit of two local landmarks, San Mateo’s salt marshes and a historic Japanese tea garden, merge in our tranquil, skylit cafe that lets in the perpetual sun. We think it’s a lovely place to appreciate the community’s warmth, and the deliciousness close at hand."
+    }
+]

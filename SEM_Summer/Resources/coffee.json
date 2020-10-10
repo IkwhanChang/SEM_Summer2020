@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "CAFFE LATTE",
+        "sub": "Espresso sweetened with a long pour of steamed milk",
+        "imageName": "coffee1",
+        "description":"One of our most popular drinks, our latte turns our assertive, chocolatey Hayes Valley Espresso velvety-sweet with a long pour of densely steamed milk.\n\nPreparation: Espresso\nCalories: 100-230\n\nPlease be advised our food and drinks may contain allergens because we use share equipment to store, prepare, and serve them. 2,000 calories a day is used for general nutrition advice, but calories needs vary.",
+        "price": 5.25
+    },
+    {
+        "id": 2,
+        "name": "CAPUCCINO",
+        "sub": "Espresso balanced with a short pour of velvety steamed milk; sometimes called a \"flat white\"",
+        "imageName": "coffee2",
+        "description":"Our cappuccino is made in the modern style, balancing our full-bodied espresso with velvety steamed milk-not the stiff foam cap of yore. In specialty coffee circles this newer style is sometimes called a \"'flat white.\" But we consider it the new cappuccino standard.",
+        "price": 5
+    },
+    {
+        "id": 3,
+        "name": "NEW ORLEANS-STYLE ICED COFFEE",
+        "sub": "With milk, cane sugar, and roasted chicory",
+        "imageName": "coffee3",
+        "description":"New Orelans-style Iced Coffee is a sweet, creamy, decandent iced coffee that' cold-brewed with roasted chicory, then cut with your choice of milk and cane sugar.",
+        "price": 5
+    }
+]

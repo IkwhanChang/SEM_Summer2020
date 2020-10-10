@@ -1,0 +1,23 @@
+[
+    {
+        "name": "CAFFE LATTE",
+        "sub": "Espresso sweetened with a long pour of steamed milk",
+        "img_name": "coffee1",
+        "description":"One of our most popular drinks, our latte turns our assertive, chocolatey Hayes Valley Espresso velvety-sweet with a long pour of densely steamed milk.",
+        "price": 5.25
+    },
+    {
+        "name": "CAPUCCINO",
+        "sub": "Espresso balanced with a short pour of velvety steamed milk; sometimes called a \"flat white\"",
+        "img_name": "coffee2",
+        "description":"Our cappuccino is made in the modern style, balancing our full-bodied espresso with velvety steamed milk-not the stiff foam cap of yore. In specialty coffee circles this newer style is sometimes called a \"'flat white.\" But we consider it the new cappuccino standard.",
+        "price": 5
+    },
+    {
+        "name": "NEW ORLEANS-STYLE ICED COFFEE",
+        "sub": "With milk, cane sugar, and roasted chicory",
+        "img_name": "coffee3",
+        "description":"New Orelans-style Iced Coffee is a sweet, creamy, decandent iced coffee that' cold-brewed with roasted chicory, then cut with your choice of milk and cane sugar.",
+        "price": 5
+    }
+]
